@@ -217,7 +217,7 @@ h3{
 }
 
 .facilities{
-    background:#d9e712;
+    background:#045f20;
     width: 100%;
     margin: auto;
     text-align: center;
@@ -225,10 +225,10 @@ h3{
   
 }
 .facilities h1{
-    color: #0a1d4d;
+    color: #b2f7ce;
 }
 .facilities p{
-    color: #363136;
+    color: #92e699;
     font-size: 18px;
 }
 .facilities-col{
@@ -273,7 +273,7 @@ h3{
 }
 .footer
 {
-    background: #747204;
+    background: #09f069;
     padding: 20px 100px;
     display: flex;
     justify-content: center;
